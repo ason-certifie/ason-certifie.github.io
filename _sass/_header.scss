@@ -92,8 +92,8 @@ body {
     font-weight: bold;
     text-decoration: none;
     background-color: $themeColor;
-    color: $accentDark;
-    padding: rem(5px) rem(10px);
+    color: #f2f2f2;
+    padding: rem(7px) rem(10px) rem(5px) rem(10px);
     border-radius: rem(5px);
     float: right;
     margin: rem(5px) rem(15px) rem(5px) rem(5px);
@@ -105,10 +105,10 @@ body {
 }
 
 body.main-page {
-  background-color: #141414;
+  background-color: #f2f2f2;
 
   .bar-header {
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: #f2f2f2;
   }
 }
 

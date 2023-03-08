@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Ason
+title: Ason | A blog for development
+description: Founder of GDP Studio, Inc. who code and films.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - development
+  - news
+  - management
+  - operation
+  - tips
 show_hero: true
 menu:
   - title: Home
@@ -18,7 +17,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: ason@certifie.io
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting

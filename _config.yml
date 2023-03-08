@@ -25,7 +25,6 @@ disqus_username: disqus_username
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
-
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: ason-certifie
@@ -47,7 +46,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ko"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
